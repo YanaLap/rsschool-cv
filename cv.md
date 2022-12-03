@@ -22,3 +22,6 @@ Specialty "Building and civil engineering". Master's degree.
 No experience in IT spheres
 ####Courses:
 No courses did not take. I am studying at RSSchool
+####Languages:
+- English
+- Ukrainian
