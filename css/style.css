@@ -123,14 +123,13 @@ body {
 
 .Projects {
   text-decoration: none;
-   color: rgb(113, 105, 91);
+  color: rgb(113, 105, 91);
   font-size: 15px
 }
 
 .Education {
   font-weight: 400;
   font-size: 15px
-  
 }
 
 .Languages {
@@ -141,7 +140,7 @@ body {
 .Courses {
   font-size: 15px;
   font-weight: 400;
-  
+
 }
 
 .footer {
@@ -157,12 +156,14 @@ body {
   font-weight: 800;
 
 }
-.line{
+
+.line {
   height: 3px;
   background-color: rgb(251, 195, 195);
   width: 45%;
 }
-.main-divider{
+
+.main-divider {
   height: 5px;
   background-color: rgb(251, 195, 195);
   width: 95%;
